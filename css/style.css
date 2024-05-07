@@ -495,9 +495,9 @@ a.active {
     .img_wrap {
         position: relative;
         width: 170px;
-        height: 300px;
+        height: 277px;
         bottom: 3vh;
-        left: calc(100% - 154px);
+        left: calc(100% - 168px);
     }
 
     .img {
